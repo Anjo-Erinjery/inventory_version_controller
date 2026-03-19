@@ -1,15 +1,11 @@
 {
   "version": "1.0.2",
-  "notes": "v1.0.2 - Private update via Controller Repo. Testing auto-update!",
-  "pub_date": "2026-03-19T09:45:00Z",
+  "notes": "v1.0.2 - Welcome message update. Testing the auto-update feature!",
+  "pub_date": "2026-03-19T09:25:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSelI2YXJSOVVaWVNKT1A0czB3b1R2U0RJeE5iR2ViblN5YlJ3MWE1UldlTFVYL3pydVhWY2tqeW4xdHpiNU9uSWZYaVdTRXZDQW5KV0VxMWdwSUY1UjV3cTNrR0hLNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTEyMDcwCWZpbGU6aW52ZW50b3J5X2FwcF8xLjAuMl94NjQtc2V0dXAubnNpcy56aXAKN3hpOUd0cUhRWkhTcXg3V2FxQ2RhemFFT1NqV3Y1dVhzL0FNWng0VTBCREZ3ZjFlL25OTUVQZ0lLMlJZdkFjQVQyanJvbE4xR0o4V2Yyd0tSSEhQRHc9PQo=",
-<<<<<<< HEAD
-      "url": "https://github.com/Anjo-Erinjery/inventory_version_controller/raw/main/inventory_app_1.0.2_x64-setup.nsis.zip"
-=======
-      "url": "https://github.com/Anjo-Erinjery/inventory_version_controller/blob/main/inventory_app_1.0.2_x64-setup.nsis.zip"
->>>>>>> c440b84fbef6d4e17e45562ea769b03c2d607314
+      "url": "https://github.com/Anjo-Erinjery/InventoryP1/releases/download/v1.0.2/inventory_app_1.0.2_x64-setup.nsis.zip"
     }
   }
 }
